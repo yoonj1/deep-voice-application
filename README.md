@@ -10,4 +10,6 @@
 
 본 프로젝트는 이러한 문제점을 해결하고자 On-Device AI를 개발하였다. 특히 On-Device AI는 기존의 모델들처럼 클라우드에 사용자의 개인정보를 전송하지 않고 장치 내에서 수행된다. 즉 기기에 개인 정보를 남기지 않아 데이터 프라이버시를 보호할 수 있다.
 </span>
-![Uploading image.png…]()
+
+![image](https://github.com/user-attachments/assets/de5c7dc7-0a4d-4aa2-a578-9aab091b692b)
+![image](https://github.com/user-attachments/assets/643046fe-148f-491b-9f32-a649b35962a9)
